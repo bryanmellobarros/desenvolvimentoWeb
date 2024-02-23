@@ -1,3 +1,7 @@
+Nome da Disciplina: Desenvolvimento Web
+Período: 2024.1
+Ano: 2024
+
 Arquivo de referência do Python: "https://www.python.org/"
 Utilidade do Python de acordo com o curso: 
 - 4. Conceitos básicos de programação de computadores: programação imperativa, programação orientada 
