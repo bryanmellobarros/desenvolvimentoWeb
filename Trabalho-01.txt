@@ -1,0 +1,47 @@
+Arquivo de referência do Python: "https://www.python.org/"
+Utilidade do Python de acordo com o curso: 
+- 4. Conceitos básicos de programação de computadores: programação imperativa, programação orientada 
+  a eventos, programação síncrona/assíncrona, ferramentas básicas de programação, versionamento de código (git);
+
+Arquivo de referência do GIT: "https://git-scm.com/"
+Utilidade do GIT de acordo com o curso: 
+- 4. Conceitos básicos de programação de computadores: programação imperativa, programação orientada a eventos, programação
+síncrona/assíncrona, ferramentas básicas de programação, versionamento de código (git);
+- 14. Consumindo e enviando dados de/para APIs web: ferramentas de consulta HTTP, consultas com segurança, consumindo/enviando dados de 
+aplicações web.
+
+Arquivo de referência do VSCode: "https://code.visualstudio.com/"
+Utilidade do VSCode de acordo com o curso:
+- 4. Conceitos básicos de programação de computadores: programação imperativa, programação orientada a eventos, programação
+síncrona/assíncrona, ferramentas básicas de programação, versionamento de código (git); 
+- 9. Desenvolvimento de páginas para internet: ferramentas de programação HTML, CSS e JavaScript; ferramentas para análise de documentos 
+HTML e CSS; análise de sites existentes;
+
+Arquivo de referência do SQLitebrowser: "https://github.com/sqlitebrowser/sqlitebrowser/wiki"
+Utilidade do SQLitebrowser de acordo com o curso:
+- 8. Introdução a Bancos de Dados para desenvolvimento web: conceito de bancos de dados, bancos de dados relacionais, bancos de dados NoSQL e
+mapeamento objeto-relacional;
+
+Arquivo de referência do Google Chrome: "https://developer.chrome.com/docs?hl=pt-br"
+Utilidade do Google Chrome de acordo com o curso:
+- 1. Arquitetura da Web: conceitos básicos sobre redes de computadores, arquiteturas de aplicações cliente-servidor, o papel do navegador web,
+conceitos e exemplos de servidores web (http e de aplicação);
+2. Protocolos de comunicação da internet: conceitos sobre protocolos de comunicação importantes para o desenvolvimento web (TCP/UPD, HTTP, FTP,
+SMTP e DNS);
+3. Internet e web: introdução aos conceitos de aplicações web, infraestrutura web, infraestrutura em nuvem, serviços web, URLs e domínos;
+
+Arquivo de referência do Mozila Firefox: "https://firefox-source-docs.mozilla.org/"
+Utilidade do Mozila Firefox de acordo com o curso:
+- 1. Arquitetura da Web: conceitos básicos sobre redes de computadores, arquiteturas de aplicações cliente-servidor, o papel do navegador web,
+conceitos e exemplos de servidores web (http e de aplicação);
+2. Protocolos de comunicação da internet: conceitos sobre protocolos de comunicação importantes para o desenvolvimento web (TCP/UPD, HTTP, FTP,
+SMTP e DNS);
+3. Internet e web: introdução aos conceitos de aplicações web, infraestrutura web, infraestrutura em nuvem, serviços web, URLs e domínos;
+
+Arquivo de referência do Opera: "hhttps://help.opera.com/en/latest/"
+Utilidade do Opera de acordo com o curso:
+- 1. Arquitetura da Web: conceitos básicos sobre redes de computadores, arquiteturas de aplicações cliente-servidor, o papel do navegador web,
+conceitos e exemplos de servidores web (http e de aplicação);
+2. Protocolos de comunicação da internet: conceitos sobre protocolos de comunicação importantes para o desenvolvimento web (TCP/UPD, HTTP, FTP,
+SMTP e DNS);
+3. Internet e web: introdução aos conceitos de aplicações web, infraestrutura web, infraestrutura em nuvem, serviços web, URLs e domínos;
