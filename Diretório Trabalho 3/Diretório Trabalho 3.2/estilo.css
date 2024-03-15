@@ -1,0 +1,157 @@
+.cabecalho {
+
+    width: 100%;
+    height: 35px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.foto1, .apelidos {
+
+    float: left;
+    width: 50%;
+    height: 200px;
+    background-color: #ccc;
+}
+
+.foto1{
+
+    background-color: white;
+    text-align: center;
+
+}
+
+p#apelido {
+
+    text-align: center;
+
+}
+
+h1#titulos{
+
+    text-align: center;
+
+}
+
+.titulo{
+
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    color: white;
+
+}
+
+.span{
+
+    text-decoration: underline;
+
+}
+
+.Estrelas, .sj{
+
+    float: left;
+    height: 280px;
+    width: 30%;
+    background-color: grey;
+
+}
+
+p#Jogadores{
+
+    text-align: center;
+
+}
+
+p#sj{
+
+    text-align: center;
+
+}
+
+.sj{
+
+    background-color: rgb(146, 137, 137);
+    width: 70%;
+    align-items: center;
+    align-content: center;
+}
+
+.sj video{
+
+    width: 320px;
+    margin:0 auto;
+    display: block;
+
+}
+
+.hino {
+
+    height: 420px;
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+
+}
+
+.hino audio{
+
+    width: 750px;
+    margin:0 auto;
+    display: block;
+
+}
+
+.form1 {
+
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+
+}
+
+.textao {
+
+    align-items: center;
+    background-color: black;
+    height: 350px;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+
+}
+
+textarea#textao{
+
+    text-align: center;
+
+}
+
+a#escolha{
+
+    color: white;
+
+}
+
+.formget{
+
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    height: 250px;
+    width: 100%;
+
+}
+
+.oficial{
+
+    text-align: center;
+    background-color: #ccc;
+
+}
